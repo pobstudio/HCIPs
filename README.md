@@ -1,4 +1,4 @@
-<img src="./images/banner.png" >
+<img src="./images/hcip-banner.jpg" >
 
 
 # HCIPs 
