@@ -1,7 +1,6 @@
-<img src="./images/hcip-banner.jpg" >
+<img src="./images/banner-dark.jpg" >
 
-
-# HCIPs 
+# HCIPs
 
 This is the main canonical repository collecting community thoughts + proposals around improving HASH community.
 
@@ -9,7 +8,7 @@ This is the main canonical repository collecting community thoughts + proposals 
 
 HCIPs, HASH Community Improvement Proposals are generalized improvements to the community. A few examples of possible HCIPs:
 
-- DAOs to govern the quality and accuracy of title + descriptions 
+- DAOs to govern the quality and accuracy of title + descriptions
 - DAOs to curate, archive, and collect history
 - Curations of artworks to create a gallery and proposal to fund + develop experiences around them (metaverse museum?) (Physical representations?)
 - Grants to build tooling community needs
